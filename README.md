@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Repository mainly used for the Applied Data Science Capstone course
+# Data Science
+Repository mainly used for saving personal and educational projects related to data science
